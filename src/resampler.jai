@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 DELAY_MATRIX_DEC: [3] [6] Int8;
 
 DELAY_MATRIX_ENC: [6] [3] Int8;

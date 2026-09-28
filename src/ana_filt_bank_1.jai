@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 A_FB1_20: Int16;
 
 A_FB1_21: Int16;

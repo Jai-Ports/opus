@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 #load "cpp_transpiler_runtime.jai";
 
 silk_clz16 :: (in16: Int16) -> Int32 {

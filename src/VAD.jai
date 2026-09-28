@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 TILT_WEIGHTS: [4] Int32;
 
 silk_clz16_in_vad :: (in16: Int16) -> Int32 {

@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 SILK_LSB_I_CDF: [2] Uint8;
 
 SILK_UNIFORM3_I_CDF: [3] Uint8;

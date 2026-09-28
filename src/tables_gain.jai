@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 SILK_GAIN_I_CDF: [3] [8] Uint8;
 
 SILK_DELTA_GAIN_I_CDF: [41] Uint8;

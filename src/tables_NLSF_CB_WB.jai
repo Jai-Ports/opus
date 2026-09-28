@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 SILK_NLSF_CB_WB: Silk_NLSF_CB_Struct;
 
 SILK_NLSF_DELTA_MIN_WB_Q15: [17] Int16;

@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 Custom_Decoder_in_celt_decoder :: struct {
     mode: *Custom_Mode;
     overlap: s32;

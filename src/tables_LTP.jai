@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 SILK_LTP_PER_INDEX_I_CDF: [3] Uint8;
 
 SILK_LTP_GAIN_I_CDF_PTRS: [3] *Uint8;

@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 TRIM_ICDF: [11] u8;
 
 SPREAD_ICDF: [4] u8;

@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 CELT_PVQ_U_ROW: [15] *Uint32;
 
 CELT_PVQ_U_DATA: [1272] Uint32;

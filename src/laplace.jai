@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 ec_range_bytes_in_laplace :: (this: *Ec_Ctx) -> Uint32 {
     return this.offs;
 }

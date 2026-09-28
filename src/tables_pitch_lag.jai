@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 SILK_PITCH_LAG_I_CDF: [32] Uint8;
 
 SILK_PITCH_DELTA_I_CDF: [21] Uint8;

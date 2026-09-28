@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 alloc__in_entenc :: (size: u64) -> *void {
     return c_transpiler_allocate_memory(size);
 }

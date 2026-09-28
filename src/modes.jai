@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 STATIC_MODE_LIST: [1] *Custom_Mode;
 
 MODE48000_960_120: Custom_Mode;

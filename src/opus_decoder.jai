@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 Decoder_in_opus_decoder :: struct {
     celt_dec_offset: s32;
     silk_dec_offset: s32;

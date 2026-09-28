@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 Band_Ctx :: struct {
     encode: s32;
     resynth: s32;

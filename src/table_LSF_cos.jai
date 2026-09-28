@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 SILK_LSF_COS_TAB_FIX_Q12: [129] Int16;
 
 silk_clz16_in_table_lsf_cos :: (in16: Int16) -> Int32 {

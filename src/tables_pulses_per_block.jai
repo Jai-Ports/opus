@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 SILK_PULSES_PER_BLOCK_I_CDF: [10] [18] Uint8;
 
 SILK_PULSES_PER_BLOCK_BITS_Q5: [9] [18] Uint8;

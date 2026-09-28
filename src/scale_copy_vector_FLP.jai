@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 silk_clz16_in_scale_copy_vector_flp :: (in16: Int16) -> Int32 {
     return 32 - ((cast,no_check(s32) (cast(u64) size_of(u32))) * 8 - c_transpiler_clz32(cast,no_check(u32) ((cast(s32) in16) << 16 | 0x8000)));
 }

@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 Vorbis_Layout :: struct {
     nb_streams: s32;
     nb_coupled_streams: s32;

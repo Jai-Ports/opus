@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 Custom_Encoder_in_celt_encoder :: struct {
     mode: *Custom_Mode;
     channels: s32;

@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 analysis_compute_dense :: (layer: *Analysis_Dense_Layer, output: *float32, input: *float32) {
     m := layer.nb_inputs;
     n := layer.nb_neurons;

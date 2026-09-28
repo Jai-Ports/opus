@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 NSQ_Del_Dec_Struct :: struct {
     s_lpc_q14: [96] Int32;
     rand_state: [40] Int32;

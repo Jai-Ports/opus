@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 SILK_TARGET_RATE_WB_21: [191] u8;
 
 SILK_TARGET_RATE_MB_21: [155] u8;

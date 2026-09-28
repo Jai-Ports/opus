@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 Projection_Encoder :: struct {
     mixing_matrix_size_in_bytes: Int32;
     demixing_matrix_size_in_bytes: Int32;

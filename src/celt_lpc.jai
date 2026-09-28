@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 TRIM_ICDF_in_celt_lpc: [11] u8;
 
 SPREAD_ICDF_in_celt_lpc: [4] u8;

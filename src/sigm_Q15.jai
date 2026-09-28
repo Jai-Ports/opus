@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 SIGM_LUT_SLOPE_Q10: [6] Int32;
 
 SIGM_LUT_POS_Q15: [6] Int32;

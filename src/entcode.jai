@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 CORRECTION: [8] u32;
 
 ec_range_bytes_in_entcode :: (this: *Ec_Ctx) -> Uint32 {

@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 LAYER0: Analysis_Dense_Layer;
 
 LAYER0_WEIGHTS: [800] Int8;

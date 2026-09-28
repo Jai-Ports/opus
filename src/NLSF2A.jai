@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 ORDERING10: [10] u8;
 
 ORDERING16: [16] u8;

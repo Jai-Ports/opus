@@ -7,7 +7,7 @@
   },
   "generator": {
     "repository": "https://github.com/Jai-Ports/generator.git",
-    "commit": "ab02dd192308f04359d639f950bc51503617ff39"
+    "commit": "30323747a0bfac4edb197bc1eda78282301b47a4"
   },
   "language": "c",
   "standard": "gnu11",

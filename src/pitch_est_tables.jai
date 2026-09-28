@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 SILK_CB_LAGS_STAGE2: [4] [11] Int8;
 
 SILK_CB_LAGS_STAGE3: [4] [34] Int8;

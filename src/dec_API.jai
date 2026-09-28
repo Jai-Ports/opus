@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 Silk_Decoder :: struct {
     channel_state: [2] Silk_Decoder_State #align 8;
     s_stereo: Stereo_Dec_State #align 1;

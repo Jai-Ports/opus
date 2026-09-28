@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 mm_cvtss_si32_in_mathops :: inline (a: M128) -> s32 {
     return c_transpiler_simd_cvtss2si32((cast(*V4sf) *(a)).*);
 }

@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 Projection_Decoder_in_opus_projection_decoder :: struct {
     demixing_matrix_size_in_bytes: Int32;
 }

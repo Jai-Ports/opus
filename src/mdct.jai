@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 select_arch_in_mdct :: () -> s32 {
     return 0;
 }

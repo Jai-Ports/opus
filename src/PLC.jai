@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 PLC_RAND_ATTENUATE_UV_Q15: [2] Int16;
 
 PLC_RAND_ATTENUATE_V_Q15: [2] Int16;

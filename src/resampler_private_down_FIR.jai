@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 SILK_RESAMPLER_DOWN2_0_in_resampler_private_down_fir: Int16;
 
 SILK_RESAMPLER_DOWN2_1_in_resampler_private_down_fir: Int16;

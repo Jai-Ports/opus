@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 ERROR_STRINGS: [8] *s8;
 
 TRIM_ICDF_in_celt: [11] u8;

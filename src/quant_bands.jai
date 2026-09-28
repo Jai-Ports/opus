@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 TRIM_ICDF_in_quant_bands: [11] u8;
 
 SPREAD_ICDF_in_quant_bands: [4] u8;
